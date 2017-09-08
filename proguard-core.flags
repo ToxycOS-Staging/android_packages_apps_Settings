@@ -1,0 +1,2 @@
+# ToxycSettings
+-keep class com.toxyc.settings.**

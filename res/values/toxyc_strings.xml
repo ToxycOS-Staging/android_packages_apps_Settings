@@ -21,6 +21,10 @@
     <string name="toxyc_version_default">Unknown</string>
     <string name="keywords_toxyc_version">ToxycOS version, toxyc version</string>
 
+    <!-- Toxyc Settings -->
+    <string name="toxyc_settings_title">Hazard</string>
+    <string name="toxyc_dashboard_summary">Our Customization</string>
+
     <!-- About phone screen, build date -->
     <string name="about_device_name">Device Codename</string>
     <string name="build_date">Build date</string>
